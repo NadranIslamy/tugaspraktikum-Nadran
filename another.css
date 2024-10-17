@@ -1,0 +1,85 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Light background */
+    color: #333;  /* Dark text */
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+
+header {
+    background-color: #fff;
+    box-shadow: 0 2
+}
+
+#modeToggle{
+    border-radius: 15px;
+    align-items: left ;
+}
+
+.gambar {
+margin-bottom: 70px;
+margin-top: 100px;
+width: 40%;
+border-radius: 100px;
+}
+
+.aboreto-regular {
+    font-family: "Aboreto", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.card2{
+    margin-left: 85px;
+}
+
+.card3{
+    margin-left: 73px;
+}
+
+.btn0{
+    margin-top: 20px;
+}
+
+.btn1{
+    margin-top: 25px;
+}
+
+.btn2{
+    margin-bottom: 5px;
+}
+
+.jarak {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.jarak0{
+    text-align: center;
+    margin-right: 23px;
+    margin-bottom: -8px;
+}
+
+.jarak3{
+    margin-top: 0px;
+    margin-bottom: -10px;
+}
+
+.parag{
+    margin-bottom: 50px;
+}
+
+.gambar{
+    width: 50%;
+}
+
+.dark-mode{
+    background-color: #333;
+    color: white;
+}
+
+.light-mode{
+    background-color: white;
+    color: black;
+}
